@@ -5,10 +5,10 @@ My major is Branding📚, and I have been studying computer science💻 since 20
 I have project experience using Python(My most confident language). 
 I am very interested in machine learning. I am especially interested in computer vision.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saintluxpgw)](https://github.com/saintluxpgw/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saintluxpgw)](https://github.com/saintluxpgw/github-readme-stats)]
 
-![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) ![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00?logo=tensorflow&logoColor=white)
-[![Hits](https://hits.eeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaintluxpgw&count_bg=%23FFBC00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)] ![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00?logo=tensorflow&logoColor=white)]
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaintluxpgw&count_bg=%23FFBC00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ### :mailbox_with_mail: Contacts
