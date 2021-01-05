@@ -1,6 +1,6 @@
 # SAINTLUXPGW
 
-👋 ** Hello My name is Gwanwoo Park, I am a Growth-hacker **   
+**👋 Hello My name is Gwanwoo Park, I am a Growth-hacker**   
 My major is Brand Strategy📚, and I have been studying computer science💻 since 2015.   
 I have project experience using Python(My most confident language).   
 I am very interested in machine learning. I am especially interested in computer vision.   
