@@ -1,4 +1,4 @@
-# SAINTLUXPGW
+# saintluxpgw
 
 **👋 Hello My name is Gwanwoo Park, I am a Growth-hacker**   
 My major is Brand Strategy📚, and I have been studying computer science💻 since 2015.   
